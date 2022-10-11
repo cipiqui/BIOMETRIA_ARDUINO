@@ -75,7 +75,7 @@ void loop() {
 
   NumeroBeacon++;
 
-  delay(3000);
+  delay(10000);
 
   Serial.print( "Nº de Beacon enviado: " );
   Serial.println( NumeroBeacon );
